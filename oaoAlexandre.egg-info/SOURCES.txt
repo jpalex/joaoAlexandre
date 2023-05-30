@@ -1,0 +1,6 @@
+joaoAlexandre.py
+setup.py
+oaoAlexandre.egg-info/PKG-INFO
+oaoAlexandre.egg-info/SOURCES.txt
+oaoAlexandre.egg-info/dependency_links.txt
+oaoAlexandre.egg-info/top_level.txt
